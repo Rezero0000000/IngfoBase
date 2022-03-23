@@ -1,0 +1,75 @@
+{
+  "id": "rice",
+  "name": "Rice",
+  "description": "Sebuah tanaman biji-bijian yang biasa ditemukan di Teyvat. Orang-orang dari semua lapisan masyarakat menikmati tekstur butirannya yang berbeda, seperti kata pepatah \"Jenis beras yang sama dapat memberi makan 100 jenis orang.\"",
+  "recipes": [
+    {
+      "id": "rice_buns",
+      "name": "Rice Bun"
+    },
+    {
+      "id": "sweet_shrimp_sushi",
+      "name": "Sweet Shrimp Sushi"
+    },
+    {
+      "id": "bird_egg_sushi",
+      "name": "Bird Egg Sushi"
+    },
+    {
+      "id": "crystal_shrimp",
+      "name": "Crystal Shrimp"
+    },
+    {
+      "id": "stirfried_fish_noodles",
+      "name": "Stir-Fried Fish Noodles"
+    },
+    {
+      "id": "tuna_sushi",
+      "name": "Tuna Sushi"
+    },
+    {
+      "id": "onigiri",
+      "name": "Rice Ball"
+    },
+    {
+      "id": "berry_mizu_manjuu",
+      "name": "Berry Mizu Manjuu"
+    },
+    {
+      "id": "come_and_get_it",
+      "name": "Come and Get It"
+    },
+    {
+      "id": "universal_peace",
+      "name": "Universal Peace"
+    },
+    {
+      "id": "jueyun_guoba",
+      "name": "Jueyun Guoba"
+    },
+    {
+      "id": "tricolor_dango",
+      "name": "Tricolor Dango"
+    },
+    {
+      "id": "sakura_mochi",
+      "name": "Sakura Mochi"
+    },
+    {
+      "id": "rice_pudding",
+      "name": "Rice Pudding"
+    },
+    {
+      "id": "invigorating_kitty_meal",
+      "name": "Invigorating Kitty Meal"
+    },
+    {
+      "id": "omelette_rice",
+      "name": "Omelette Rice"
+    },
+    {
+      "id": "unagi_chazuke",
+      "name": "Unagi Chazuke"
+    }
+  ]
+}

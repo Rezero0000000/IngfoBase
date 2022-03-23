@@ -1,0 +1,22 @@
+{
+  "id": "sausage",
+  "name": "Sausage",
+  "description": "Finely minced meat wrapped in a skin. A staple of every meat lover's daily diet.",
+  "processing": [
+    {
+      "id": "raw_meat",
+      "name": "Raw Meat",
+      "amount": 3
+    }
+  ],
+  "recipes": [
+    {
+      "id": "cold_cut_platter",
+      "name": "Cold Cut Platter"
+    },
+    {
+      "id": "rice_cake_soup",
+      "name": "Rice Cake Soup"
+    }
+  ]
+}

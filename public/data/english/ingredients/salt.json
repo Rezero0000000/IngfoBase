@@ -1,0 +1,46 @@
+{
+  "id": "salt",
+  "name": "Salt",
+  "description": "A savory seasoning. A precise but adequate amount will elevate the quality of the cuisine.",
+  "recipes": [
+    {
+      "id": "drybraised_salted_fish",
+      "name": "Dry-Braised Salted Fish"
+    },
+    {
+      "id": "radish_and_fish_stew",
+      "name": "Radish and Fish Stew"
+    },
+    {
+      "id": "sangayaki",
+      "name": "Sangayaki"
+    },
+    {
+      "id": "sunshine_sprat",
+      "name": "Sunshine Sprat"
+    },
+    {
+      "id": "zhongyuan_chop_suey",
+      "name": "Zhongyuan Chop Suey"
+    },
+    {
+      "id": "blackback_perch_stew",
+      "name": "Black-Back Perch Stew"
+    },
+    {
+      "id": "unagi_chazuke",
+      "name": "Unagi Chazuke"
+    },
+    {
+      "id": "golden_crab",
+      "name": "Golden Crab"
+    }
+  ],
+  "craft": [
+    {
+      "id": "smoked_fowl",
+      "name": "Smoked Fowl",
+      "amount": 1
+    }
+  ]
+}

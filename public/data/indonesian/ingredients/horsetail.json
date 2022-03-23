@@ -1,0 +1,15 @@
+{
+  "id": "horsetail",
+  "name": "Horsetail",
+  "description": "Tumbuhan ungu yang terkadang tumbuh di antara Silvergrass tapi lebih tinggi, lurus, dan gemuk - seperti bangsawan di antara rakyat biasa.",
+  "recipes": [
+    {
+      "id": "rice_buns",
+      "name": "Rice Bun"
+    },
+    {
+      "id": "jueyun_guoba",
+      "name": "Jueyun Guoba"
+    }
+  ]
+}

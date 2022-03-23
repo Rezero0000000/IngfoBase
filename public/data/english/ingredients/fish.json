@@ -1,0 +1,94 @@
+{
+  "id": "fish",
+  "name": "Fish",
+  "description": "A fresh fillet of fish. Handled properly, it can make a rich dish.",
+  "processing": [
+    {
+      "id": "medaka",
+      "name": "Medaka",
+      "amount": 1
+    }
+  ],
+  "recipes": [
+    {
+      "id": "mondstadt_grilled_fish",
+      "name": "Mondstadt Grilled Fish"
+    },
+    {
+      "id": "grilled_tiger_fish",
+      "name": "Grilled Tiger Fish"
+    },
+    {
+      "id": "drybraised_salted_fish",
+      "name": "Dry-Braised Salted Fish"
+    },
+    {
+      "id": "stirfried_fish_noodles",
+      "name": "Stir-Fried Fish Noodles"
+    },
+    {
+      "id": "tuna_sushi",
+      "name": "Tuna Sushi"
+    },
+    {
+      "id": "onigiri",
+      "name": "Onigiri"
+    },
+    {
+      "id": "radish_and_fish_stew",
+      "name": "Radish and Fish Stew"
+    },
+    {
+      "id": "sangayaki",
+      "name": "Sangayaki"
+    },
+    {
+      "id": "udon_noodles",
+      "name": "Udon Noodles"
+    },
+    {
+      "id": "sunshine_sprat",
+      "name": "Sunshine Sprat"
+    },
+    {
+      "id": "zhongyuan_chop_suey",
+      "name": "Zhongyuan Chop Suey"
+    },
+    {
+      "id": "blackback_perch_stew",
+      "name": "Black-Back Perch Stew"
+    },
+    {
+      "id": "squirrel_fish",
+      "name": "Squirrel Fish"
+    },
+    {
+      "id": "come_and_get_it",
+      "name": "Come and Get It"
+    },
+    {
+      "id": "fullmoon_egg",
+      "name": "Fullmoon Egg"
+    },
+    {
+      "id": "rice_cake_soup",
+      "name": "Rice Cake Soup"
+    },
+    {
+      "id": "invigorating_kitty_meal",
+      "name": "Invigorating Kitty Meal"
+    },
+    {
+      "id": "moreandmore",
+      "name": "More-and-More"
+    },
+    {
+      "id": "sashimi_platter",
+      "name": "Sashimi Platter"
+    },
+    {
+      "id": "bountiful_year",
+      "name": "Bountiful Year"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "snapdragon",
+  "name": "Snapdragon",
+  "description": "Can be eaten once cooked. As a spice, it can bring wonderful flavor to dishes.",
+  "recipes": [
+    {
+      "id": "cream_stew",
+      "name": "Cream Stew"
+    },
+    {
+      "id": "jewelry_soup",
+      "name": "Jewelry Soup"
+    },
+    {
+      "id": "vegetarian_abalone",
+      "name": "Vegetarian Abalone"
+    },
+    {
+      "id": "stirfried_fish_noodles",
+      "name": "Stir-Fried Fish Noodles"
+    },
+    {
+      "id": "sangayaki",
+      "name": "Sangayaki"
+    },
+    {
+      "id": "cured_pork_dry_hotpot",
+      "name": "Cured Pork Dry Hotpot"
+    },
+    {
+      "id": "stirfried_shrimp",
+      "name": "Stir-Fried Shrimp"
+    },
+    {
+      "id": "tricolor_dango",
+      "name": "Tricolor Dango"
+    },
+    {
+      "id": "triflavored_skewer",
+      "name": "Tri-Flavored Skewer"
+    },
+    {
+      "id": "konda_cuisine",
+      "name": "Konda Cuisine"
+    },
+    {
+      "id": "chicken_tofu_pudding",
+      "name": "Chicken Tofu Pudding"
+    }
+  ]
+}

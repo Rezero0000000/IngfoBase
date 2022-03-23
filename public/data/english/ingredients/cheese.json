@@ -1,0 +1,22 @@
+{
+  "id": "cheese",
+  "name": "Cheese",
+  "description": "Made from fermented milk. High in energy, it's used in a wide range of dishes.",
+  "processing": [
+    {
+      "id": "milk",
+      "name": "Milk",
+      "amount": 3
+    }
+  ],
+  "recipes": [
+    {
+      "id": "mushroom_pizza",
+      "name": "Mushroom Pizza"
+    },
+    {
+      "id": "pile_em_up",
+      "name": "\"Pile 'Em Up\""
+    }
+  ]
+}

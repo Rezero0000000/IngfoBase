@@ -1,0 +1,27 @@
+{
+  "id": "radish",
+  "name": "Radish",
+  "description": "Rich in fiber and nutrients. Easy to grow and harvest.",
+  "recipes": [
+    {
+      "id": "radish_veggie_soup",
+      "name": "Radish Veggie Soup"
+    },
+    {
+      "id": "fried_radish_balls",
+      "name": "Fried Radish Balls"
+    },
+    {
+      "id": "radish_and_fish_stew",
+      "name": "Radish and Fish Stew"
+    },
+    {
+      "id": "five_pickled_treasures",
+      "name": "Five Pickled Treasures"
+    },
+    {
+      "id": "sashimi_platter",
+      "name": "Sashimi Platter"
+    }
+  ]
+}

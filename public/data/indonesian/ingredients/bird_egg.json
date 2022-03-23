@@ -1,0 +1,71 @@
+{
+  "id": "bird_egg",
+  "name": "Bird Egg",
+  "description": "Telur yang memiliki potensi tanpa batas, juga dapat memberikan kebutuhan protein untuk satu hari.",
+  "recipes": [
+    {
+      "id": "teyvat_fried_egg",
+      "name": "Teyvat Fried Egg"
+    },
+    {
+      "id": "egg_roll",
+      "name": "Egg Roll"
+    },
+    {
+      "id": "bird_egg_sushi",
+      "name": "Bird Egg Sushi"
+    },
+    {
+      "id": "tea_break_pancake",
+      "name": "Tea Break Pancake"
+    },
+    {
+      "id": "satisfying_salad",
+      "name": "Satisfying Salad"
+    },
+    {
+      "id": "lotus_seed_and_bird_egg_soup",
+      "name": "Lotus Seed and Bird Egg Soup"
+    },
+    {
+      "id": "adventurers_breakfast_sandwich",
+      "name": "Adventurer's Breakfast Sandwich"
+    },
+    {
+      "id": "fullmoon_egg",
+      "name": "Fullmoon Egg"
+    },
+    {
+      "id": "tonkotsu_ramen",
+      "name": "Tonkotsu Ramen"
+    },
+    {
+      "id": "triflavored_skewer",
+      "name": "Tri-Flavored Skewer"
+    },
+    {
+      "id": "imported_poultry",
+      "name": "Imported Poultry"
+    },
+    {
+      "id": "rice_pudding",
+      "name": "Rice Pudding"
+    },
+    {
+      "id": "omelette_rice",
+      "name": "Omelette Rice"
+    },
+    {
+      "id": "moon_pie",
+      "name": "Moon Pie"
+    },
+    {
+      "id": "golden_crab",
+      "name": "Golden Crab"
+    },
+    {
+      "id": "chicken_tofu_pudding",
+      "name": "Chicken Tofu Pudding"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "milk",
+  "name": "Milk",
+  "description": "Sweet and fragrant cow's milk. Don't waste a single drop, not even that one rolling down your chin.",
+  "recipes": [
+    {
+      "id": "fishermans_toast",
+      "name": "Fisherman's Toast"
+    },
+    {
+      "id": "almond_tofu",
+      "name": "Almond Tofu"
+    },
+    {
+      "id": "tricolor_dango",
+      "name": "Tricolor Dango"
+    },
+    {
+      "id": "rice_pudding",
+      "name": "Rice Pudding"
+    },
+    {
+      "id": "taiyaki",
+      "name": "Taiyaki"
+    }
+  ],
+  "craft": [
+    {
+      "id": "cream",
+      "name": "Cream",
+      "amount": 1
+    }
+  ]
+}

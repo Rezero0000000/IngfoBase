@@ -1,0 +1,27 @@
+{
+  "id": "bacon",
+  "name": "Bacon",
+  "description": "Smoked strips of pork. Crispy with a bit of fat, but not too greasy. Mmmmm... bacon.",
+  "processing": [
+    {
+      "id": "raw_meat",
+      "name": "Raw Meat",
+      "amount": 2
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "amount": 2
+    }
+  ],
+  "recipes": [
+    {
+      "id": "cold_cut_platter",
+      "name": "Cold Cut Platter"
+    },
+    {
+      "id": "moreandmore",
+      "name": "More-and-More"
+    }
+  ]
+}

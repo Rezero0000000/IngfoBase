@@ -1,0 +1,67 @@
+{
+  "id": "ham",
+  "name": "Ham",
+  "description": "Smoked leg meat. Even the thinnest slice is packed full of flavor.",
+  "processing": [
+    {
+      "id": "raw_meat",
+      "name": "Raw Meat",
+      "amount": 2
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "amount": 1
+    }
+  ],
+  "recipes": [
+    {
+      "id": "cold_cut_platter",
+      "name": "Cold Cut Platter"
+    },
+    {
+      "id": "crab_ham_veggie_bake",
+      "name": "Crab, Ham & Veggie Bake"
+    },
+    {
+      "id": "adventurers_breakfast_sandwich",
+      "name": "Adventurer's Breakfast Sandwich"
+    },
+    {
+      "id": "bamboo_shoot_soup",
+      "name": "Bamboo Shoot Soup"
+    },
+    {
+      "id": "triplelayered_consomm",
+      "name": "Triple-Layered Consommé"
+    },
+    {
+      "id": "jueyun_guoba",
+      "name": "Jueyun Guoba"
+    },
+    {
+      "id": "cured_pork_dry_hotpot",
+      "name": "Cured Pork Dry Hotpot"
+    },
+    {
+      "id": "oncidium_tofu",
+      "name": "Oncidium Tofu"
+    },
+    {
+      "id": "dragon_beard_noodles",
+      "name": "Dragon Beard Noodles"
+    },
+    {
+      "id": "jade_parcels",
+      "name": "Jade Parcels"
+    },
+    {
+      "id": "chicken_tofu_pudding",
+      "name": "Chicken Tofu Pudding"
+    },
+    {
+      "id": "adeptus_temptation",
+      "name": "Adeptus' Temptation"
+    }
+  ]
+}

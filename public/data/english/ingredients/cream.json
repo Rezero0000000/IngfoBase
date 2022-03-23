@@ -1,0 +1,26 @@
+{
+  "id": "cream",
+  "name": "Cream",
+  "description": "A dairy product made from milk. An essential ingredient in making pastries.",
+  "processing": [
+    {
+      "id": "milk",
+      "name": "Milk",
+      "amount": 1
+    }
+  ],
+  "recipes": [
+    {
+      "id": "cream_stew",
+      "name": "Cream Stew"
+    },
+    {
+      "id": "fragrant_mashed_potatoes",
+      "name": "Fragrant Mashed Potatoes"
+    },
+    {
+      "id": "crab_ham_veggie_bake",
+      "name": "Crab, Ham & Veggie Bake"
+    }
+  ]
+}

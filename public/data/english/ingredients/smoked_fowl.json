@@ -1,0 +1,23 @@
+{
+  "id": "smoked_fowl",
+  "name": "Smoked Fowl",
+  "description": "Fowl that has been smoked. The firmness of the meat gives new texture to dishes.",
+  "processing": [
+    {
+      "id": "fowl",
+      "name": "Fowl",
+      "amount": 3
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "amount": 1
+    }
+  ],
+  "recipes": [
+    {
+      "id": "northern_smoked_chicken",
+      "name": "Northern Smoked Chicken"
+    }
+  ]
+}

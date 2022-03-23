@@ -1,0 +1,31 @@
+{
+  "id": "lavender_melon",
+  "name": "Lavender Melon",
+  "description": "A brightly-colored fruit. The flesh within transforms into food with a unique mouthfeel when cooked.",
+  "recipes": [
+    {
+      "id": "imported_poultry",
+      "name": "Imported Poultry"
+    },
+    {
+      "id": "konda_cuisine",
+      "name": "Konda Cuisine"
+    },
+    {
+      "id": "rice_cake_soup",
+      "name": "Rice Cake Soup"
+    },
+    {
+      "id": "sakura_tempura",
+      "name": "Sakura Tempura"
+    },
+    {
+      "id": "moreandmore",
+      "name": "More-and-More"
+    },
+    {
+      "id": "five_pickled_treasures",
+      "name": "Five Pickled Treasures"
+    }
+  ]
+}

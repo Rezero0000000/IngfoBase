@@ -1,0 +1,15 @@
+{
+  "id": "almond",
+  "name": "Almond",
+  "description": "Biji dengan bau yang unik, memberikan makanan rasa yang menyegarkan.",
+  "recipes": [
+    {
+      "id": "almond_tofu",
+      "name": "Almond Tofu"
+    },
+    {
+      "id": "lotus_flower_crisp",
+      "name": "Lotus Flower Crisp"
+    }
+  ]
+}

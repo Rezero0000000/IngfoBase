@@ -1,0 +1,27 @@
+{
+  "id": "bamboo_shoot",
+  "name": "Bamboo Shoot",
+  "description": "Tunas bambu muda segar, yang berasal langsung dari tanah. Ini adalah bahan masakan lezat dengan aroma yang eksotis, dapat ditemukan secara eksklusif di daerah penanaman bambu.",
+  "recipes": [
+    {
+      "id": "wakatakeni",
+      "name": "Wakatakeni"
+    },
+    {
+      "id": "bamboo_shoot_soup",
+      "name": "Bamboo Shoot Soup"
+    },
+    {
+      "id": "triplelayered_consomm",
+      "name": "Triple-Layered Consommé"
+    },
+    {
+      "id": "tonkotsu_ramen",
+      "name": "Tonkotsu Ramen"
+    },
+    {
+      "id": "oncidium_tofu",
+      "name": "Oncidium Tofu"
+    }
+  ]
+}

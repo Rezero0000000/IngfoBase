@@ -1,0 +1,58 @@
+{
+  "id": "fowl",
+  "name": "Fowl",
+  "description": "A fresh chunk of fowl. Handled properly, it can make a hearty meal.",
+  "recipes": [
+    {
+      "id": "chickenmushroom_skewer",
+      "name": "Chicken-Mushroom Skewer"
+    },
+    {
+      "id": "sweet_madame",
+      "name": "Sweet Madame"
+    },
+    {
+      "id": "jueyun_chili_chicken",
+      "name": "Jueyun Chili Chicken"
+    },
+    {
+      "id": "golden_chicken_burger",
+      "name": "Golden Chicken Burger"
+    },
+    {
+      "id": "triplelayered_consomm",
+      "name": "Triple-Layered Consommé"
+    },
+    {
+      "id": "imported_poultry",
+      "name": "Imported Poultry"
+    },
+    {
+      "id": "konda_cuisine",
+      "name": "Konda Cuisine"
+    },
+    {
+      "id": "oncidium_tofu",
+      "name": "Oncidium Tofu"
+    },
+    {
+      "id": "dragon_beard_noodles",
+      "name": "Dragon Beard Noodles"
+    },
+    {
+      "id": "golden_fried_chicken",
+      "name": "Golden Fried Chicken"
+    },
+    {
+      "id": "chicken_tofu_pudding",
+      "name": "Chicken Tofu Pudding"
+    }
+  ],
+  "craft": [
+    {
+      "id": "smoked_fowl",
+      "name": "Smoked Fowl",
+      "amount": 1
+    }
+  ]
+}

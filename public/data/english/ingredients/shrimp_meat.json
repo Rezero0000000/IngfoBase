@@ -1,0 +1,47 @@
+{
+  "id": "shrimp_meat",
+  "name": "Shrimp Meat",
+  "description": "A whole piece of deep sea shrimp meat, full of nutrients and bursting with delicious flavor.",
+  "recipes": [
+    {
+      "id": "sweet_shrimp_sushi",
+      "name": "Sweet Shrimp Sushi"
+    },
+    {
+      "id": "crystal_shrimp",
+      "name": "Crystal Shrimp"
+    },
+    {
+      "id": "golden_shrimp_balls",
+      "name": "Golden Shrimp Balls"
+    },
+    {
+      "id": "crispy_potato_shrimp_platter",
+      "name": "Crispy Potato Shrimp Platter"
+    },
+    {
+      "id": "fullmoon_egg",
+      "name": "Fullmoon Egg"
+    },
+    {
+      "id": "stirfried_shrimp",
+      "name": "Stir-Fried Shrimp"
+    },
+    {
+      "id": "sakura_tempura",
+      "name": "Sakura Tempura"
+    },
+    {
+      "id": "sakura_shrimp_crackers",
+      "name": "Sakura Shrimp Crackers"
+    },
+    {
+      "id": "sashimi_platter",
+      "name": "Sashimi Platter"
+    },
+    {
+      "id": "adeptus_temptation",
+      "name": "Adeptus' Temptation"
+    }
+  ]
+}

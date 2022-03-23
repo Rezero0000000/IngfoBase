@@ -1,0 +1,30 @@
+{
+  "id": "berry",
+  "name": "Berry",
+  "description": "Small, brightly-colored fruit. They can be found everywhere, and the taste of them wipes the fatigue of a long journey away.",
+  "recipes": [
+    {
+      "id": "tea_break_pancake",
+      "name": "Tea Break Pancake"
+    },
+    {
+      "id": "berry_mizu_manjuu",
+      "name": "Berry Mizu Manjuu"
+    },
+    {
+      "id": "crispy_potato_shrimp_platter",
+      "name": "Crispy Potato Shrimp Platter"
+    },
+    {
+      "id": "universal_peace",
+      "name": "Universal Peace"
+    }
+  ],
+  "craft": [
+    {
+      "id": "jam",
+      "name": "Jam",
+      "amount": 1
+    }
+  ]
+}

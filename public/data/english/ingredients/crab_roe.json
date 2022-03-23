@@ -1,0 +1,26 @@
+{
+  "id": "crab_roe",
+  "name": "Crab Roe",
+  "description": "A delicacy specific to female crabs. A rare and prized ingredient that isn't quite to everyone's taste.",
+  "processing": [
+    {
+      "id": "crab",
+      "name": "Crab",
+      "amount": 4
+    }
+  ],
+  "recipes": [
+    {
+      "id": "crab_roe_tofu",
+      "name": "Crab Roe Tofu"
+    },
+    {
+      "id": "crab_roe_kourayaki",
+      "name": "Crab Roe Kourayaki"
+    },
+    {
+      "id": "crab_ham_veggie_bake",
+      "name": "Crab, Ham & Veggie Bake"
+    }
+  ]
+}
