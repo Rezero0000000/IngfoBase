@@ -6,14 +6,9 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>IngfoBase | <?= $data['title'] ?></title>
-        <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Bootstrap icons-->
-        <link href="<?= BASEURL ?>/css/bootstrap-icons.css" rel="stylesheet" />
+
         <link href="<?= BASEURL ?>/css/styles.css" rel="stylesheet" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <!-- card -->
-        <link rel="stylesheet" type="text/css" href="<?= BASEURL ?>/css/card.css">
+        <link rel="stylesheet" type="text/css" href="<?= BASEURL ?>/css/card.css">        
     </head>
     <body>
         <!-- Responsive navbar-->
@@ -26,7 +21,7 @@
                         <li class="nav-item"><a class="nav-link  <?php if($data['title'] == "Home"){echo"active";} ?>" aria-current="page" href="<?= NEWURL?>">Home</a></li>
                          <li class="nav-item"><a class="nav-link  <?php if($data['title'] == "About"){echo"active";} ?>" aria-current="page" href="<?= NEWURL?>About">About</a></li>
                         <li class="nav-item"><a class="nav-link  <?php if($data['title'] == "Character"){echo"active";} ?>" href="<?= NEWURL?>Character">Characters</a></li>
-                        <li class="nav-item"><a class="nav-link" target="blank" href="https://github.com/Kazut00/">Github</a></li>
+                        <li class="nav-item"><a class="nav-link" target="blank" href="https://github.com/Kazut00/IngfoBase">Github</a></li>
                     </ul>
                 </div>
             </div>

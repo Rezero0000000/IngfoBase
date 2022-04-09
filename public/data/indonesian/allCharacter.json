@@ -3,6 +3,7 @@
             {
               "id": "albedo",
               "image" : "Character_Albedo_Card.png",
+              "portrait" : "Character_Albedo_Portrait.png",
               "name": "Albedo",
               "title": "Kreideprinz",
               "description": "Seorang jenius yang dikenal dengan julukan Kreideprinz, dia adalah Kepala Alkemis dan Kapten Tim Investigasi Knights of Favonius.",
@@ -10,7 +11,7 @@
               "element": "Geo",
               "gender": "Pria",
               "substat": "Geo DMG Bonus",
-              "affiliation": "Knights of Favonius",
+              "affiliation": "Knights of Character_Albedo_Portrait.png",
               "region": "Mondstadt",
               "rarity": 5,
               "birthday": [13, 9],
@@ -27,6 +28,7 @@
             {
               "id": "aloy",
               "image" : "Character_Aloy_Card.png",
+              "portrait" : "Character_Aloy_Portrait.png",
               "name": "Aloy",
               "title": "Savior From Another World",
               "description": "Dulunya dikucilkan oleh sukunya, kini menjadi pemburu dengan kemampuan tak tertandingi. Selalu siap membela yang benar dengan busurnya.",
@@ -35,6 +37,7 @@
               "gender": "Perempuan",
               "substat": "Cryo DMG Bonus",
               "affiliation": "Pahlawan yang Mengembara",
+              "region" : "Mondstadt",
               "rarity": 5,
               "birthday": [4, 4],
               "constellation": "Nora Fortis",
@@ -49,7 +52,8 @@
 
             {
               "id": "amber",
-              "image" : "Character_Amber_Card.jpg",
+              "image" : "Character_Amber_Card.png",
+              "portrait" : "Character_Amber_Portrait.png",
               "name": "Amber",
               "title": "Gliding Champion",
               "description": "Gadis periang yang selalu energik dan penuh semangat. Amber adalah Outrider terbaik (dan juga satu-satunya) di Knights of Favonius.",
@@ -73,7 +77,8 @@
 
             {
               "id": "arataki_itto",
-              "image" : "Character_Arataki_Itto_Card.jpg",
+              "image" : "Character_Arataki_Itto_Card.png",
+              "portrait" : "Character_Arataki_Itto_Portrait.png",
               "name": "Arataki Itto",
               "title": "Hanamizaka Heroics",
               "description": "Pemimpin tertinggi dan pertama dari geng Arataki, yang terkenal di Hanamizaka, Kota Inazuma ... Apa katamu? Belum pernah dengar? Mau cari ribut ya?",
@@ -97,7 +102,8 @@
 
             {
               "id": "barbara",
-              "image" : "Character_Barbara_Card.jpg",
+              "image" : "Character_Barbara_Card.png",
+              "portrait" : "Character_Barbara_Portrait.png",
               "name": "Barbara",
               "title": "Shining Idol",
               "description": "Setiap penduduk Mondstadt mendambakan Barbara. Tetapi kata \"idola\" yang melekat padanya, dia hanya melihatnya dari majalah.",
@@ -121,7 +127,8 @@
 
             {
               "id": "beidou",
-              "image" : "Character_Beidou_Card.jpg",
+              "image" : "Character_Beidou_Card.png",
+              "portrait" : "Character_Beidou_Portrait.png",
               "name": "Beidou",
               "title": "Uncrowned Lord of Ocean",
               "description": "Pemimpin dari armada laut Crux Fleet. Bos wanita yang tegas dan berpendirian teguh.",
@@ -145,7 +152,8 @@
 
             {
               "id": "bennett",
-              "image" : "Character_Bennett_Card.jpg",
+              "image" : "Character_Bennett_Card.png",
+              "portrait" : "Character_Bennett_Portrait.png",
               "name": "Bennett",
               "title": "Trial by Fire",
               "description": "Seorang petualang yang berhati baik, tetapi kerap dihantui oleh nasib yang tidak mujur.",
@@ -169,7 +177,8 @@
 
             {
               "id": "chongyun",
-              "image" : "Character_Chongyun_Card.jpg",
+              "image" : "Character_Chongyun_Card.png",
+              "portrait" : "Character_Chongyun_Portrait.png",
               "name": "Chongyun",
               "title": "Frozen Ardor",
               "description": "Anak muda pewaris klan pembasmi iblis. Dia telah melakukan segalanya yang bisa dia lakukan untuk menahan \"Luapan Energi Yang\" yang ada dalam dirinya.",
@@ -193,7 +202,8 @@
 
             {
               "id": "diluc",
-              "image" : "Character_Diluc_Card.jpg",
+              "image" : "Character_Diluc_Card.png",
+              "portrait" : "Character_Diluc_Portrait.png",
               "name": "Diluc",
               "title": "The Dark Side of Dawn",
               "description": "Pemilik dari kerajaan kilang anggur di Mondstadt, kekayaan, ketenaran, dan kekuatannya diakui oleh semua orang.",
@@ -218,6 +228,7 @@
             {
               "id": "diona",
               "image" : "Character_Diona_Card.png",
+              "portrait" : "Character_Diona_Portrait.png",
               "name": "Diona",
               "title": "Kätzlein Cocktail",
               "description": "Seorang wanita muda yang mewarisi darah yang bukan manusia. Dia adalah bartender terkenal di Cat's Tail.",
@@ -241,6 +252,7 @@
             {
               "id": "eula",
               "image" : "Character_Eula_Card.png",
+              "portrait" : "Character_Eula_Portrait.png",
               "name": "Eula",
               "title": "Dance of the Shimmering Wave",
               "description": "Sang Spindrift Knight, keturunan keluarga bangsawan dan Kapten dari Pasukan Gerilya Knights of Favonius. Alasan kenapa seorang keturunan bangsawan kuno ingin bergabung dengan para Knight masih menjadi misteri di Mondstadt sampai saat ini.",
@@ -263,7 +275,8 @@
             },
             {
               "id": "fischl",
-              "image" : "Character_Fischl_Card.jpg",
+              "image" : "Character_Fischl_Card.png",
+              "portrait" : "Character_Fischl_Portrait.png",
               "name": "Fischl",
               "title": "Prinzessin der Verurteilung!!",
               "description": "Seorang gadis misterius yang menyebut dirinya sendiri \"Prinzessin der Verurteilung\", dia selalu terlihat bersama dengan seekor gagak hitam yang bernama Oz.",
@@ -287,6 +300,7 @@
             {
               "id": "ganyu",
               "image" : "Character_Ganyu_Card.png",
+              "portrait" : "Character_Ganyu_Portrait.png",
               "name": "Ganyu",
               "title": "Plenilune Gaze",
               "description": "Seorang sekretaris di Yuehai Pavilion. Darah hewan pusaka Qilin mengalir di dalam tubuhnya.",
@@ -309,7 +323,8 @@
             },
             {
               "id": "gorou",
-              "image" : "Character_Gorou_Card.jpg",
+              "image" : "Character_Gorou_Card.png",
+              "portrait" : "Character_Gorou_Portrait.png",
               "name": "Gorou",
               "title": "Canine Warrior",
               "description": "Jenderal pasukan di Pulau Watatsumi. Dia sangat dipercaya anak buahnya.",
@@ -332,7 +347,8 @@
             }, 
             {
               "id": "hu_tao",
-              "image" : "Character_Hu_Tao_Card.jpg",
+              "image" : "Character_Hu_Tao_Card.png",
+              "portrait" : "Character_Hu_Tao_Portrait.png",
               "name": "Hu Tao",
               "title": "Fragrance in Thaw",
               "description": "Master ke-77 Wangsheng Funeral Parlor. Dia mengambil alih bisnis ini di umur yang cukup muda.",
@@ -355,7 +371,8 @@
             },
             {
               "id": "jean",
-              "image" : "Character_Jean_Card.jpg",
+              "image" : "Character_Jean_Card.png",
+              "portrait" : "Character_Jean_Portrait.png",
               "name": "Jean",
               "title": "Dandelion Knight",
               "description": "Dandelion Knight yang menjunjung tinggi keadilan dan kebenaran. Menjabat sebagai Grand Master Knights of Favonius di Mondstadt.",
@@ -379,6 +396,7 @@
             {
               "id": "kaedehara_kazuha",
               "image" : "Character_Kaedehara_Kazuha_Card.png",
+              "portrait" : "Character_Kaedehara_kazuha_Portrait.png",
               "name": "Kaedehara Kazuha",
               "title": "Scarlet Leaves Pursue Wild Waves",
               "description": "Seorang samurai pengembara dari Inazuma yang saat ini bergabung bersama dengan armada Crux Fleet Liyue. Di dalam jiwanya yang lembut dan riang, terdapat hati yang menyembunyikan banyak beban.",
@@ -401,7 +419,8 @@
             }, 
             {
               "id": "kaeya",
-              "image" : "Character_Kaeya_Card.jpg",
+              "image" : "Character_Kaeya_Card.png",
+              "portrait" : "Character_Kaeya_Portrait.png",
               "name": "Kaeya",
               "title": "Frostwind Swordsman",
               "description": "Seorang kesatria pedang yang ulung dan ahli strategi di dalam Knights of Favonius, dikabarkan berasal dari luar Mondstadt.",
@@ -425,6 +444,7 @@
             {
               "id": "kamisato_ayaka",
               "image" : "Character_Kamisato_Ayaka_Card.png",
+              "portrait" : "Character_Kamisato_Ayaka_Portrait.png",
               "name": "Kamisato Ayaka",
               "title": "Frostflake Heron",
               "description": "Putri dari Klan Kamisato di Yashiro Commission. Bermartabat dan elegan, cerdas dan tangguh.",
@@ -447,7 +467,8 @@
             },  
             {
               "id": "keqing",
-              "image" : "Character_Keqing_Card.jpg",
+              "image" : "Character_Keqing_Card.png",
+              "portrait" : "Character_Keqing_Portrait.png",
               "name": "Keqing",
               "title": "Driving Thunder",
               "description": "Yuheng dari Liyue Qixing, dia punya banyak hal yang ingin dikatakan mengenai Rex Lapis yang memerintah Liyue- dan pada kenyataannya, para Dewa mengagumi orang-orang sepertinya.",
@@ -470,7 +491,8 @@
             },
             {
               "id": "klee",
-              "image" : "Character_Klee_Card.jpg",
+              "image" : "Character_Klee_Card.png",
+              "portrait" : "Character_Klee_Portrait.png",
               "name": "Klee",
               "title": "Fleeing Sunlight",
               "description": "Seorang ahli peledak yang sudah menjadi langganan di ruang tahanan Knights of Favonius. Juga dikenal dengan nama Fleeing Sunlight.",
@@ -493,7 +515,8 @@
             }, 
             {
               "id": "kujou_sara",
-              "image" : "Character_Kujou_Sara_Card.jpg",
+              "image" : "Character_Kujou_Sara_Card.png",
+              "portrait" : "Character_Kujou_Sara_Portrait.png",
               "name": "Kujou Sara",
               "title": "Crowfeather Kaburaya",
               "description": "Seorang jenderal di Tenryou Commission. Sifatnya berani, tegas, dan sangat pandai bertarung.",
@@ -516,7 +539,8 @@
             },
             {
               "id": "lisa",
-              "image" : "Character_Lisa_Card.jpg",
+              "image" : "Character_Lisa_Card.png",
+              "portrait" : "Character_Lisa_Portrait.png",
               "name": "Lisa",
               "title": "Witch of Purple Rose",
               "description": "Pustakawan Knights of Favonius yang sangat malas namun berwawasan sangat luas, pernah dinyatakan oleh Sumeru Academia sebagai siswi kelulusan terbaik 2 abad terakhir.",
@@ -539,7 +563,8 @@
             }, 
             {
               "id": "mona",
-              "image" : "Character_Mona_Card.jpg",
+              "image" : "Character_Mona_Card.png",
+              "portrait" : "Character_Mona_Portrait.png",
               "name": "Mona",
               "title": "Astral Reflection",
               "description": "Seorang astrolog yang menyebut dirinya sendiri sebagai \"Astrologist Mona Megistus\", dan memiliki kemampuan yang sesuai dengan julukannya. Kepandaiannya setara dengan keangkuhannya.",
@@ -562,7 +587,8 @@
             }, 
             {
               "id": "ningguang",
-              "image" : "Character_Ningguang_Card.jpg",
+              "image" : "Character_Ningguang_Card.png",
+              "portrait" : "Character_Ningguang_Portrait.png",
               "name": "Ningguang",
               "title": "Eclipsing Star",
               "description": "Seorang \"Tianquan\" dari \"Liyue Qixing\", kekayaannya tidak tertandingi di seluruh Teyvat.",
@@ -585,7 +611,8 @@
             }, 
             {
               "id": "noelle",
-              "image" : "Character_Noelle_Card.jpg",
+              "image" : "Character_Noelle_Card.png",
+              "portrait" : "Character_Noelle_Portrait.png",
               "name": "Noelle",
               "title": "Chivalric Blossom",
               "description": "Seorang pelayan yang bekerja di Knights of Favonius, memiliki impian untuk menjadi seorang Knight suatu hari kelak.",
@@ -608,7 +635,8 @@
             }, 
             {
               "id": "qiqi",
-              "image" : "Character_Qiqi_Card.jpg",
+              "image" : "Character_Qiqi_Card.png",
+              "portrait" : "Character_Qiqi_Portrait.png",
               "name": "Qiqi",
               "title": "Icy Resurrection",
               "description": "Seorang murid di Bubu Pharmacy yang bertugas untuk memetik tanaman obat-obatan. Seorang zombie yang kulitnya teramat putih dan pucat, dia teramat pendiam, dan jarang menunjukkan ekspresi apa pun.",
@@ -631,7 +659,8 @@
             }, 
             {
               "id": "raiden_shogun",
-              "image" : "Character_Raiden_Shogun_Card.jpg",
+              "image" : "Character_Raiden_Shogun_Card.png",
+              "portrait" : "Character_Raiden_Shogun_Portrait.png",
               "name": "Raiden Shogun",
               "title": "Plane of Euthymia",
               "description": "Yang Mulia, Sang Narukami Ogosho Yang Mahakuasa. Dia menjanjikan para penduduk Inazuma keabadian yang tidak akan pernah berubah.",
@@ -654,7 +683,8 @@
             },
             {
               "id": "razor",
-              "image" : "Character_Razor_Card.jpg",
+              "image" : "Character_Razor_Card.png",
+              "portrait" : "Character_Razor_Portrait.png",
               "name": "Razor",
               "title": "Wolf Boy",
               "description": "Seorang anak laki-laki yang tinggal di daerah Mondstadt. Jauh dari peradaban manusia dan tinggal di kalangan antara serigala di Wolvendom. Firasatnya tajam, tubuhnya lincah bagai kilat.",
@@ -678,6 +708,7 @@
             {
               "id": "rosaria",
               "image" : "Character_Rosaria_Card.png",
+              "portrait" : "Character_Rosaria_Portrait.png",
               "name": "Rosaria",
               "title": "Thorny Benevolence",
               "description": "Seorang suster yang selain dari pakaiannya, tidak terlihat seperti seorang suster sama sekali. Dikenal karena kata-katanya yang tajam dan dingin. Sering terlihat bekerja sendiri.",
@@ -700,7 +731,8 @@
             },     
             {
               "id": "sangonomiya_kokomi",
-              "image" : "Character_Sangonomiya_Kokomi_Card.jpg",
+              "image" : "Character_Sangonomiya_Kokomi_Card.png",
+              "portrait" : "Character_Sangonomiya_Kokomi_Portrait.png",
               "name": "Sangonomiya Kokomi",
               "title": "Pearl of Wisdom",
               "description": "Sang Pemimpin Suci di Pulau Watatsumi. Segala urusan yang terjadi di pulau tersebut ada dalam genggaman nona muda ini.",
@@ -724,6 +756,7 @@
              {
               "id": "sayu",
               "image" : "Character_Sayu_Card.png",
+              "portrait" : "Character_Sayu_Portrait.png",
               "name": "Sayu",
               "title": "Mujina Ninja",
               "description": "Ninja kecil anggota Shuumatsuban yang selalu terlihat kurang tidur.",
@@ -746,7 +779,8 @@
             },
             {
               "id": "shenhe",
-              "image" : "Character_Shenhe_Card.jpg",
+              "image" : "Character_Shenhe_Card.png",
+              "portrait" : "Character_Shenhe_Portrait.png",
               "name": "Shenhe",
               "title": "Lonesome Transcendence",
               "description": "Seorang murid Adeptus dengan temperamen yang sedikit unik. Karena sudah lama hidup terisolasi di pegunungan Liyue, sifatnya juga menjadi acuh tak acuh dan menjaga jarak seperti para Adeptus.",
@@ -769,7 +803,8 @@
             }, 
             {
               "id": "sucrose",
-              "image" : "Character_Sucrose_Card.jpg",
+              "image" : "Character_Sucrose_Card.png",
+              "portrait" : "Character_Sucrose_Portrait.png",
               "name": "Sucrose",
               "title": "Harmless Sweetie",
               "description": "Seorang alkemis dipenuhi dengan rasa ingin tahu tentang semua hal. Dia meneliti bio-alkimia.",
@@ -793,6 +828,7 @@
             {
               "id": "tartaglia",
               "image" : "Character_Tartaglia_Card.png",
+              "portrait" : "Character_Tartaglia_Portrait.png",
               "name": "Tartaglia",
               "title": "Childe",
               "description": "Anggota ke-11 dari Eleven Harbingers, juga dikenal dengan nama \"Childe\". Ketenaran namanya saja dapat menghantar ketakutan di medan perang.",
@@ -815,7 +851,8 @@
             }, 
             {
               "id": "thoma",
-              "image" : "Character_Thoma_Card.jpg",
+              "image" : "Character_Thoma_Card.png",
+              "portrait" : "Character_Thoma_Portrait.png",
               "name": "Thoma",
               "title": "Protector From Afar",
               "description": "Pengurus rumah tangga Klan Kamisato. Seorang \"kepala\" yang terkenal di Inazuma.",
@@ -838,7 +875,8 @@
             },
             {
               "id": "venti",
-              "image" : "Character_Venti_Card.jpg",
+              "image" : "Character_Venti_Card.png",
+              "portrait" : "Character_Venti_Portrait.png",
               "name": "Venti",
               "title": "Windborne Bard",
               "description": "Salah satu penyair Mondstadt yang dengan bebas berkeliling di antara lorong-lorong Mondstadt.",
@@ -861,7 +899,8 @@
             },
             {
               "id": "xiangling",
-              "image" : "Character_Xiangling_Card.jpg",
+              "image" : "Character_Xiangling_Card.png",
+              "portrait" : "Character_Xiangling_Portrait.png",
               "name": "Xiangling",
               "title": "Exquisite Delicacy",
               "description": "Seorang koki ternama dari Liyue. Memiliki cinta yang mendalam akan seni masak-memasak, sangat pandai memasak masakan andalannya dengan rasa yang pedas dan gurih.",
@@ -884,8 +923,8 @@
              },
              {
               "id": "xiao",
-              "image" : "Character_Xiao_Card.jpg",
-              "image" : "Character_Xiao_Card.jpg",
+              "image" : "Character_Xiao_Card.png",
+              "portrait" : "Character_Xiao_Portrait.png",
               "name": "Xiao",
               "title": "Vigilant Yaksha",
               "description": "Yaksha, sesosok Adeptus yang melindungi Liyue. Juga memiliki julukan \"Conqueror of Demons\" atau \"Vigilant Yaksha\".",
@@ -908,7 +947,8 @@
             },
             {
               "id": "xingqiu",
-              "image" : "Character_Xingqiu_Card.jpg",
+              "image" : "Character_Xingqiu_Card.png",
+              "portrait" : "Character_Xingqiu_Portrait.png",
               "name": "Xingqiu",
               "title": "Juvenile Galant",
               "description": "Seorang pria muda yang membawa sebilah pedang panjang, sering terlihat di kios buku. Memiliki hati mulia yang menjunjung tinggi keadilan dan kebenaran.",
@@ -931,7 +971,8 @@
             },
             {
               "id": "xinyan",
-              "image" : "Character_Xinyan_Card.jpg",
+              "image" : "Character_Xinyan_Card.png",
+              "portrait" : "Character_Xinyan_Portrait.png",
               "name": "Xinyan",
               "title": "Blazing Riff",
               "description": "Musisi rock 'n' roll satu-satunya di Liyue, kecintaannya yang unik terhadap musik dapat memutarbalikkan pemahaman-pemahaman masyarakat yang kaku.",
@@ -955,6 +996,7 @@
              {
               "id": "yae_miko",
               "image" : "Character_Yae_Miko_Card.png",
+              "portrait" : "Character_Yae_Miko_Portrait.png",
               "name": "Yae Miko",
               "title": "Astute Amusement",
               "description": "Lady Guuji dari Kuil Agung Narukami juga menjabat sebagai pemimpin redaksi Yae Publishing House. Kecerdasan dan kelicikan yang tidak dapat dibayangkan tersembunyi di balik penampilannya yang cantik.",
@@ -978,6 +1020,7 @@
             {
               "id": "yanfei",
               "image" : "Character_Yanfei_Card.png",
+              "portrait" : "Character_Yanfei_Portrait.png",
               "name": "Yanfei",
               "title": "Wise Innocence",
               "description": "Seorang konsultan hukum yang terkenal di Liyue, di tubuh gadis muda ini juga mengalir darah Adeptus.",
@@ -1001,6 +1044,7 @@
             {
               "id": "yoimiya",
               "image" : "Character_Yoimiya_Card.png",
+              "portrait" : "Character_Yoimiya_Portrait.png",
               "name": "Yoimiya",
               "title": "Frolicking Flames",
               "description": "Pemilik Naganohara Fireworks. Juga dikenal sebagai \"Ratu Festival Musim Panas\", dia mahir membuat kembang api yang melambangkan harapan dan impian semua orang.",
@@ -1023,7 +1067,8 @@
              },
              {
               "id": "yun_jin",
-              "image" : "Character_Yun_Jin_Card.jpg",
+              "image" : "Character_Yun_Jin_Card.png",
+              "portrait" : "Character_Yun_Jin_Portrait.png",
               "name": "Yun Jin",
               "title": "Stage Lucida",
               "description": "Seorang penyanyi opera Liyue yang mahir bernyanyi dan pintar menulis sandiwara. Gayanya lain dari yang lain — elegan dan lembut, persis seperti karakternya.",
@@ -1047,6 +1092,7 @@
             {
               "id": "zhongli",
               "image" : "Character_Zhongli_Card.png",
+              "portrait" : "Character_Zhongli_Portrait.png",
               "name": "Zhongli",
               "title": "Vago Mundo",
               "description": "Seorang konsultan misterius yang terikat kontrak dengan Wangsheng Funeral Parlor. Dia memiliki pengetahuan yang mendalam tentang segala sesuatu.",

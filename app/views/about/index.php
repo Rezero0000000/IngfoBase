@@ -1,42 +1,31 @@
-<section  class="py-5"id="About">
-	<div class="about-content container">
-		<h1 class="fs-1  ">About</h1>
-		<p class="mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<section  class="py-5 mt-5 mb-5 container border-bottom "id="About">
+	<div class="about-content row ">
+        <div class="col-1"></div>
+        <div class="col-10">
+    		<h1 class="fs-1  text-center">About</h1>
+    		<p class="mt-2 text-center mb-5 genshin">Ingfobase merupakan website yang dimana tujuan awal saya adalah untuk menerapkan mvc (model view control) dalam codingan saya,ini adalah project saya yang paling serius saya kerjakan, dan website ini memiliki ingfo( g lengkap :v ) dari game yang bernama <strong> Gensin Impact </strong> 
+</p>
+        </div>
+        <div class="col-1"></div>
 	</div>
 </section>
 
-<section class="py-5" id="support">
-    <div class="support container">
-        <h2>Support Us</h2>
-        <p class="mt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <a class="btn btn-dark btn-lg px-4 me-sm-3 mt-3" target="blank" href="https://github.com/Kazut00/">Github</a>
+<section class="py-5 mb-5 mt-5 container">
+<div class="  row about-me mt-5">
 
-    </div>
-                                
-                                
+            <div class="col-2"></div>
+               <div class="col-sm-3 about-img-div">
+                    <img class="img-fluid about-img"src="<?= BASEURL ?>img/kazuto.jpg" >
+               </div>
+
+                <div class="col-sm-6  mt-md-4 container">
+                    <h1 class="ms-4">Kazuto</h1>
+                    <p class="mt-2 ms-4 genshin">Nama asli saya adalah Muhammad Raihan Alifiandra, umur saya 18 tahun dan saat ini saya bersekolah di SMA NEGERI 2 Balikpapan. Jadi saya cuman wibu yang gabut akhirnya belajar programming dan  akhirnya meng-implementasi semua hal yang saya pelajari di project ini :v</p>
+                    
+                    <a class="btn btn-dark btn-lg px-4 me-sm-3 mt-3 ms-4" target="blank" href="https://github.com/Kazut00/">Github</a>
+                </div>
+
+        <div class="col-1"></div>
+
+    </div>                                                   
 </section>
