@@ -21,7 +21,7 @@
                         <li class="nav-item"><a class="nav-link  <?php if($data['title'] == "Home"){echo"active";} ?>" aria-current="page" href="<?= NEWURL?>">Home</a></li>
                          <li class="nav-item"><a class="nav-link  <?php if($data['title'] == "About"){echo"active";} ?>" aria-current="page" href="<?= NEWURL?>About">About</a></li>
                         <li class="nav-item"><a class="nav-link  <?php if($data['title'] == "Character"){echo"active";} ?>" href="<?= NEWURL?>Character">Characters</a></li>
-                        <li class="nav-item"><a class="nav-link" target="blank" href="https://github.com/Kazut00/IngfoBase">Github</a></li>
+                        <li class="nav-item"><a class="nav-link" target="blank" href="https://github.com/Schwartz-kun">Github</a></li>
                     </ul>
                 </div>
             </div>
