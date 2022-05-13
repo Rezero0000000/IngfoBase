@@ -19,10 +19,10 @@
                </div>
 
                 <div class="col-sm-6  mt-md-4 container">
-                    <h1 class="ms-4">Kazuto</h1>
+                    <h1 class="ms-4">Schwartz</h1>
                     <p class="mt-2 ms-4 genshin">Nama asli saya adalah Muhammad Raihan Alifiandra, umur saya 18 tahun dan saat ini saya bersekolah di SMA NEGERI 2 Balikpapan. Jadi saya cuman wibu yang gabut akhirnya belajar programming dan  akhirnya meng-implementasi semua hal yang saya pelajari di project ini :v</p>
                     
-                    <a class="btn btn-dark btn-lg px-4 me-sm-3 mt-3 ms-4" target="blank" href="https://github.com/Kazut00/">Github</a>
+                    <a class="btn btn-dark btn-lg px-4 me-sm-3 mt-3 ms-4" target="blank" href="https://github.com/Schwartz-kun/">Github</a>
                 </div>
 
         <div class="col-1"></div>
