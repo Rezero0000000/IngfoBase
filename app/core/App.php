@@ -22,7 +22,7 @@ class App {
 			require_once('app/controllers/' . $this->controller . '.php');
 			$this->controller = new $this->controller ;
 
-		    //======================Method===========================
+		   	//======================Method===========================
 			if (isset($url[1])) {
 				if (method_exists($this->controller, $url[1])) {
 					$this->method = $url[1];
@@ -30,7 +30,7 @@ class App {
 				}
 			}
 
-			 //parameter
+			//parameter
 				if (!empty($url)) {
 					$this->params = array_values($url);
 				}
@@ -39,8 +39,7 @@ class App {
 				call_user_func_array([$this->controller, $this->method], $this->params);
 
 		}
-
-
+	
 		public function parseUrl(){
 			if (isset($_GET['url'])) {
 					$url = rtrim($_GET['url'], '/');
@@ -49,6 +48,5 @@ class App {
 					return $url;
 			}	
 		}
-
-}
+	}
  
