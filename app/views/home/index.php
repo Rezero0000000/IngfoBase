@@ -7,7 +7,7 @@
                             <p class="display-5 fw-bolder text-white ia mb-1">INGFOBASE</p>
                             <p class="lead mb-5 genshin ">Simple mvc website about Genshin Impact database</p>
                             <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
-                                <a class="btn btn-dark btn-lg px-4 me-sm-3" target="blank" href="https://github.com/Kazut00/IngfoBase">Github</a>
+                                <a class="btn btn-dark btn-lg px-4 me-sm-3" target="blank" href="https://github.com/Schwartz-kun/IngfoBase">Github</a>
                                 <a class="btn btn-outline-light btn-lg px-4" href="<?= NEWURL ?>about">Learn More</a>
                             </div>
                         </div>
